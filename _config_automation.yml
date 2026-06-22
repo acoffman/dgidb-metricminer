@@ -24,34 +24,34 @@ refresh-calendly: no
 calendly_googlesheet:
 
 ###### Citations ######
-refresh-citations: yes
+refresh-citations: no
 citation_papers: [
   "https://scholar.google.com/scholar?cites=6140457238337460780",
   "https://scholar.google.com/scholar?cites=15945159957067506879" ]
 citation_googlesheet:
 
 ###### CRAN ######
-refresh-cran: yes
+refresh-cran: no
 cran_packages: [ metricminer, ottrpal ]
 cran_googlesheet:
 
 ###### GitHub ######
 refresh-github: yes
 github_repos: [
-  fhdsl/metricminer,
-  fhdsl/metricminer-dashboard,
-  jhudsl/OTTR_Template,
-  jhudsl/OTTR_Template_Website
+  dgidb/dgidb-v5,
+  fdgidb/dgipy,
+  dgidb/dgiLIT,
+  dgidb/r-dgidb
   ]
 github_googlesheet:
 
 ###### Google Analytics ######
 refresh-ga: yes
-ga_property_ids: [ 422671031, 422558989 ]
+ga_property_ids: [ 392002789 ]
 ga_googlesheet:
 
 ###### Google Forms ######
-refresh-googleforms: yes
+refresh-googleforms: no
 google_forms: [
   1DQlUXC3ODKfDWDJJuUBO3azspchS-17xCacOfoWJvhI,
   1XvE5YOL6lU-uew6jRTLhw-qxl8DD7T--2lsNEvgzMRs ]
@@ -63,7 +63,7 @@ drive_id: 1QcseQD2mz62Zl-JdyY63u1dC5aTSQC0R
 slido_googlesheet:
 
 ###### YouTube ######
-refresh-youtube: yes
+refresh-youtube: no
 video_ids: [ XN_QPRrJZAw, YkYnni-WuaQ ]
 youtube_googlesheet:
 
