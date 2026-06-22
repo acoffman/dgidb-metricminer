@@ -39,7 +39,7 @@ cran_googlesheet:
 refresh-github: yes
 github_repos: [
   dgidb/dgidb-v5,
-  fdgidb/dgipy,
+  dgidb/dgipy,
   dgidb/dgiLIT,
   dgidb/r-dgidb
   ]
